@@ -11,6 +11,6 @@
 *There is an inverse relationship between average fares total rides . Rural areas generating app $4 more per ride that Suburban which in turn generating app $6 more than Urban. This may be accounted for by longer distances in Rural areas perhaps costing more per ride.
 
 ## Summary of plotted fares for city type over time 
-* The plot supports observations also found in the summary data; Urban fare totals are much bigger than Suburban with are bigger than Rural. 
+* The plot supports observations also found in the summary data; Urban fare totals are much bigger than Suburban which are bigger than Rural. 
 * All types follow a similar pattern over the months of Jan-2019 and May-2019, with Fare peaks in near end of February and March. This appears to be worth exploring. What was happening at this time that increased ridership? For Urban fares, there is unusual fluctuation in March, not seen in other months which is also worth exploring. 
 * Overall I would say there is more exploring that can be done for each City Type to understand usage peaks and dips and perhaps leverage such new analysis for a ride increasing program.
